@@ -1,0 +1,7 @@
+rsi_dashboard/
+├── app.py
+├── requirements.txt
+└── data/
+    ├── 1.2_Soil_Data_with_Correct_Dates.csv
+    ├── 28_flora_rsi.csv
+    └── 28_fauna_rsi.csv
